@@ -10,5 +10,8 @@ Book Description
 Unique, reader-friendly explanations and meaningful programming exercises emphasize business applications and game creation while useful debugging exercises and contemporary case problems further expand your understanding. "
 
 Originally used while at University to supplement Programming Modules. Now I've restarted reading to develop skills in the later chapters.
+
+## Current Progress
+ - Chapter 3 Case Problems (Active)
 ## Book Reference
 Farrell, J. (2018) Java Programming. 9th Edition. Boston MA :Course Technology Inc.
